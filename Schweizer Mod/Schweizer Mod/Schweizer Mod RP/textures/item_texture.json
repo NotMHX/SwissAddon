@@ -1,0 +1,18 @@
+{
+	"resource_pack_name": "Schweizer Mod",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"swiss_schoggi": {
+			"textures": "textures/items/schoggi"
+		},
+		"swiss_sackmesser": {
+			"textures": "textures/items/sackmesser"
+		},
+		"swiss_flag_of_canton_bern": {
+			"textures": "textures/items/Flag_of_Canton_of_Bern"
+		},
+		"swiss_fondu_gabel": {
+			"textures": "textures/items/fondu_gabel"
+		}
+	}
+}
