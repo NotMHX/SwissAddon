@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:tobleronerecepie"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:honey_bottle"
+			},
+			"S": {
+				"item": "minecraft:sugar"
+			},
+			"M": {
+				"item": "minecraft:milk_bucket"
+			},
+			"T": {
+				"item": "bridge:schoggi"
+			}
+		},
+		"pattern": [
+			"   ",
+			"T#T",
+			"SMS"
+		],
+		"result": {
+			"item": "bridge:toblerone"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:roesti"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:potato"
+			},
+			"M": {
+				"item": "minecraft:milk_bucket"
+			}
+		},
+		"pattern": [
+			"###",
+			"#M#",
+			"###"
+		],
+		"result": {
+			"item": "bridge:rosti"
+		}
+	}
+}
