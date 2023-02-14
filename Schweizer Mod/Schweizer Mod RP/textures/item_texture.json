@@ -13,6 +13,18 @@
 		},
 		"swiss_fondu_gabel": {
 			"textures": "textures/items/fondu_gabel"
+		},
+		"toblerone": {
+			"textures": "textures/items/toblerone"
+		},
+		"rosti": {
+			"textures": "textures/items/rosti"
+		},
+		"bridge_g": {
+			"textures": "textures/items/g"
+		},
+		"schoggi": {
+			"textures": "textures/items/schoggi"
 		}
 	}
 }
