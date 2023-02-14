@@ -18,7 +18,7 @@
 				"item": "minecraft:milk_bucket"
 			},
 			"T": {
-				"item": "bridge:schoggi"
+				"item": "swiss:schoggi"
 			}
 		},
 		"pattern": [
@@ -27,7 +27,7 @@
 			"SMS"
 		],
 		"result": {
-			"item": "bridge:toblerone"
+			"item": "swiss:toblerone"
 		}
 	}
 }
