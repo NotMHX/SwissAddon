@@ -2,7 +2,7 @@
 	"format_version": "1.12",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "bridge:roesti"
+			"identifier": "swiss:roesti"
 		},
 		"tags": [
 			"crafting_table"
@@ -21,7 +21,7 @@
 			"###"
 		],
 		"result": {
-			"item": "bridge:rosti"
+			"item": "swiss:rosti"
 		}
 	}
 }
