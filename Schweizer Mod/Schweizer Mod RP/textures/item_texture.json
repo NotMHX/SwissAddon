@@ -1,57 +1,54 @@
 {
-  "resource_pack_name": "Schweizer Mod",
-  "texture_name": "atlas.items",
-  "texture_data": {
-    "swiss_schoggi": {
-      "textures": "textures/items/schoggi"
-    },
-    "swiss_sackmesser": {
-      "textures": "textures/items/sackmesser"
-    },
-    "swiss_flag_of_canton_bern": {
-      "textures": "textures/items/Flag_of_Canton_of_Bern"
-    },
-    "swiss_flag_of_canton_zurich": {
-      "textures": "textures/items/Flag_of_Canton_of_Zürich"
-    },
-    "swiss_flag_of_canton_solothurn": {
-      "textures": "textures/items/Flag_of_Canton_of_Solothurn"
-    },
-    "swiss_flag_of_canton_geneva": {
-      "textures": "textures/items/Flag_of_Canton_of_Geneva"
-    },
-    "flag_of_canton_valais": {
-      "textures": "textures/items/Flag_of_Canton_of_Valais"
-    },
-    "flag_of_canton_graubunden": {
-      "textures": "textures/items/Flag_of_Canton_of_Graubünden"
-    },
-    "flag_of_canton_stgallen": {
-      "textures": "textures/items/Flag_of_Canton_of_Sankt_Gallen"
-    },
-    "flag_of_canton_basel": {
-      "textures": "textures/items/Flag_of_Canton_of_Basel"
-    },
-    "flag_of_canton_basel-landschaft": {
-      "textures": "textures/items/Flag_of_Canton_of_Basel-Landschaft"
-    },
-    "flag_of_canton_aargau": {
-      "textures": "textures/items/Flag_of_Canton_of_Aargau"
-    },
-    "swiss_fondu_gabel": {
-      "textures": "textures/items/fondu_gabel"
-    },
-    "toblerone": {
-      "textures": "textures/items/toblerone"
-    },
-    "rosti": {
-      "textures": "textures/items/rosti"
-    },
-    "bridge_g": {
-      "textures": "textures/items/g"
-    },
-    "schoggi": {
-      "textures": "textures/items/schoggi"
-    }
-  }
+	"resource_pack_name": "Schweizer Mod",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"swiss_sackmesser": {
+			"textures": "textures/items/sackmesser"
+		},
+		"swiss_flag_of_canton_bern": {
+			"textures": "textures/items/Flag_of_Canton_of_Bern"
+		},
+		"swiss_flag_of_canton_zurich": {
+			"textures": "textures/items/Flag_of_Canton_of_Zürich"
+		},
+		"swiss_flag_of_canton_solothurn": {
+			"textures": "textures/items/Flag_of_Canton_of_Solothurn"
+		},
+		"swiss_flag_of_canton_geneva": {
+			"textures": "textures/items/Flag_of_Canton_of_Geneva"
+		},
+		"swiss_flag_of_canton_valais": {
+			"textures": "textures/items/Flag_of_Canton_of_Valais"
+		},
+		"swiss_flag_of_canton_graubunden": {
+			"textures": "textures/items/Flag_of_Canton_of_Graubünden"
+		},
+		"swiss_flag_of_canton_stgallen": {
+			"textures": "textures/items/Flag_of_Canton_of_Sankt_Gallen"
+		},
+		"swiss_flag_of_canton_basel": {
+			"textures": "textures/items/Flag_of_Canton_of_Basel"
+		},
+		"swiss_flag_of_canton_basel-landschaft": {
+			"textures": "textures/items/Flag_of_Canton_of_Basel-Landschaft"
+		},
+		"swiss_flag_of_canton_aargau": {
+			"textures": "textures/items/Flag_of_Canton_of_Aargau"
+		},
+		"swiss_fondu_gabel": {
+			"textures": "textures/items/fondu_gabel"
+		},
+		"swiss_toblerone": {
+			"textures": "textures/items/toblerone"
+		},
+		"swiss_roesti": {
+			"textures": "textures/items/roesti"
+		},
+		"swiss_schoggi": {
+			"textures": "textures/items/schoggi"
+		},
+		"swiss_aluminium_ingot": {
+			"textures": "textures/items/aluminium_ingot"
+		}
+	}
 }
