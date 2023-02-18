@@ -1,14 +1,17 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:item": {
-    "description": {
-      "identifier": "swiss:flag_of_canton_valais",
-      "category": "items"
-    },
-    "components": {
-      "minecraft:icon": {
-        "texture": "flag_of_canton_valais"
-      }
-    }
-  }
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "swiss:flag_of_canton_valais",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "swiss_flag_of_canton_valais"
+			},
+			"minecraft:display_name": {
+				"value": "Valais Wappen"
+			}
+		}
+	}
 }

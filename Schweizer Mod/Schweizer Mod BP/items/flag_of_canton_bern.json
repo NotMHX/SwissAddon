@@ -8,6 +8,9 @@
 		"components": {
 			"minecraft:icon": {
 				"texture": "swiss_flag_of_canton_bern"
+			},
+			"minecraft:display_name": {
+				"value": "Bern Wappen"
 			}
 		}
 	}

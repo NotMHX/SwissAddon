@@ -2,26 +2,26 @@
 	"format_version": "1.12",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "swiss:fondu_gabel"
+			"identifier": "swiss:schoggi"
 		},
 		"tags": [
 			"crafting_table"
 		],
 		"pattern": [
-			"i i",
-			" / ",
-			" / "
+			" c ",
+			"csc",
+			" c "
 		],
 		"key": {
-			"i": {
-				"item": "swiss:aluminium_ingot"
+			"s": {
+				"item": "minecraft:sugar"
 			},
-			"/": {
-				"item": "minecraft:stick"
+			"c": {
+				"item": "minecraft:cocoa_beans"
 			}
 		},
 		"result": {
-			"item": "swiss:fondu_gabel"
+			"item": "swiss:schoggi"
 		}
 	}
 }

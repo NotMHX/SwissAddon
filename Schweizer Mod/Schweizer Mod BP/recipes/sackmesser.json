@@ -2,26 +2,26 @@
 	"format_version": "1.12",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "swiss:fondu_gabel"
+			"identifier": "swiss:sackmesser"
 		},
 		"tags": [
 			"crafting_table"
 		],
 		"pattern": [
-			"i i",
-			" / ",
-			" / "
+			"  a",
+			"rar",
+			"rrr"
 		],
 		"key": {
-			"i": {
-				"item": "swiss:aluminium_ingot"
+			"r": {
+				"item": "minecraft:red_dye"
 			},
-			"/": {
-				"item": "minecraft:stick"
+			"a": {
+				"item": "swiss:aluminium_ingot"
 			}
 		},
 		"result": {
-			"item": "swiss:fondu_gabel"
+			"item": "swiss:sackmesser"
 		}
 	}
 }

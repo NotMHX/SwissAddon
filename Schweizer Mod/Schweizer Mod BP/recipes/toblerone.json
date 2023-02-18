@@ -2,26 +2,32 @@
 	"format_version": "1.12",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "swiss:roesti"
+			"identifier": "swiss:toblerone"
 		},
 		"tags": [
 			"crafting_table"
 		],
 		"key": {
 			"#": {
-				"item": "minecraft:potato"
+				"item": "minecraft:honey_bottle"
+			},
+			"S": {
+				"item": "minecraft:sugar"
 			},
 			"M": {
 				"item": "minecraft:milk_bucket"
+			},
+			"T": {
+				"item": "swiss:schoggi"
 			}
 		},
 		"pattern": [
-			"###",
-			"#M#",
-			"###"
+			"   ",
+			"T#T",
+			"SMS"
 		],
 		"result": {
-			"item": "swiss:roesti"
+			"item": "swiss:toblerone"
 		}
 	}
 }

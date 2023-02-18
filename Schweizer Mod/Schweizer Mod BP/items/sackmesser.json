@@ -43,6 +43,9 @@
 			"minecraft:icon": {
 				"texture": "swiss_sackmesser"
 			},
+			"minecraft:display_name": {
+				"value": "Sackmesser"
+			},
 			"minecraft:max_stack_size": 1,
 			"minecraft:repairable": {
 				"repair_items": [
